@@ -1,0 +1,18 @@
+{
+  "name": "西語發音小教室",
+  "short_name": "西語小教室",
+  "description": "貼上每日西語教材，自動生成互動式發音練習",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FFFBF5",
+  "theme_color": "#F97316",
+  "icons": [
+    {
+      "src": "./icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
